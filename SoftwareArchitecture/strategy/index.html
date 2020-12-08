@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Strategy Design Pattern</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+<body>
+<div class="register">
+    <div class="row">
+        <div class="col-md-12 register-right">
+            <div class="fade show active">
+                <div class="text-center align-content-center">
+                    <h3 class="register-heading font-weight-bold">Strategy Design Pattern</h3>
+                </div>
+                    <div class="row register-form">
+                        <div class="col-md-12 text-center">
+                            <p>
+                                The strategy design pattern implemented in JavaScript
+                            </p>
+                            <p class="alert alert-info text-center">
+                                Please provide your name in the input field
+                            </p>
+                        </div>
+                        <hr class="col-md-12 solid">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label for="name">Your Name :</label>
+                                <input type="text" name="name" id="name"
+                                       class="form-control"
+                                       placeholder="Enter your name..."
+                                       value="Salar"/>
+                            </div>
+                        </div>
+                        <hr class="col-md-12 solid">
+                        <p class="col-md-12">These are 3 types of greetings:</p>
+                        <br>
+                        <div class="col-md-12 btn-group">
+                            <button class="btn btn-success greeter" data-class="politeGreetingStrategy">polite</button>
+                            <button class="btn btn-warning greeter" data-class="friendlyGreetingStrategy">friendly</button>
+                            <button class="btn btn-danger greeter" data-class="boredGreetingStrategy">bored</button>
+                        </div>
+                        <hr class="col-md-12 solid">
+                        <div class="col-md-12">
+                            <p class="alert alert-warning text-center">
+                                Result : <span id="result-output">Not greeted yet...</span>
+                            </p>
+                        </div>
+                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/strategy.js"></script>
+</html>
