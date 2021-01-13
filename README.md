@@ -22,6 +22,19 @@
 <br>
 [1115029_02	سمينار	2](https://github.com/SaliBhdr/PNU_3991_AR/tree/main/Seminar)
 
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/SaliBhdr/PNU_3991_AR/blob/main/_General/SB_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/SaliBhdr/PNU_3991_AR/blob/main/_General/SB_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/SaliBhdr/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SB_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/SaliBhdr/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SB_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/SaliBhdr/PNU_3991_AR/blob/main/SoftwareArchitecture/SB_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_سمینار]()
+
 --------------
 ## گروه های درسی
 
